@@ -1,1 +1,25 @@
 # Welcome to the THR Employment Test
+Your goal is to demonstrate your proficiency in the core technologies we use for development. You will achieve this by creating an image gallery that meets the requirements described below.
+
+## Requirements
+
+### Part 1: Web
+- Create a ReactJS project that implements TypeScript.
+- The app's main screen shall be an image gallery. (See sample image 1)
+- Clicking on an image will show image details. (See sample image 2)
+- UI Must be designed using Semantic UI. Avoid all unnecessary CSS.
+- This part of the project does not need to connect to a real database, just use the Sample Data.
+
+### Part 2: Server
+- Setup PostgreSQl and store the images title, description, date and url in a database.
+- Create a node project and use express and typeorm to fetch the information from the database
+- Log data to the server console.
+
+Remember, the purpose of this exercise is to show that you have a basic understanding of the technologies we are using.
+    
+## Resources
+- React Documentation | https://reactjs.org/docs/getting-started.html
+- Typescript | https://www.typescriptlang.org/docs/home.html
+- Semantic UI | https://react.semantic-ui.com/
+- PostgreSQL | https://www.postgresql.org/docs/
+- TypeORM | https://typeorm.io/
