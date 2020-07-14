@@ -4,13 +4,15 @@ Your goal is to demonstrate your proficiency in the core technologies we use for
 ## Requirements
 
 ### Part 1: Web
+The goal in Part 1 is to demonstrate a basic understanding of React, TypeScript, Semantic UI as well as knowledge of basic design concepts.
 - Create a ReactJS project that implements TypeScript.
 - The app's main screen shall be an image gallery. (See sample image 1)
 - Clicking on an image will show image details. (See sample image 2)
 - UI Must be designed using Semantic UI. Avoid all unnecessary CSS.
-- This part of the project does not need to connect to a real database, just use the Sample Data.
+- This part of the project does not need to connect to a real database, and can just use the sample data provided.
 
 ### Part 2: Server
+The goal in Part 2 is to demonstrate a basic understanding of backend developing with PostgreSQL.
 - Setup PostgreSQl and store the images title, description, date and url in a database.
 - Create a node project and use express and typeorm to fetch the information from the database
 - Log data to the server console.
