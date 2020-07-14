@@ -17,6 +17,12 @@ The goal in Part 2 is to demonstrate a basic understanding SQl databases and dat
 - Create a node project and use express and typeorm to fetch the information from the database
 - Log data to the server console.
 
+### Part 3: Git
+Demonstrate your ability to use Git and Github
+- Clone this repository and create a new branch.
+- Add a screenshot of your completed project to your branch under the samples folder.
+- Commit your branch and create a pull request.
+
 Remember, the purpose of this exercise is to show that you have a basic understanding of the technologies we are using.
     
 ## Resources
